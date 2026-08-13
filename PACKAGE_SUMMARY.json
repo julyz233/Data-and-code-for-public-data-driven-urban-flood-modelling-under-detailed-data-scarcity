@@ -5,7 +5,7 @@
   "zip_path": "D:\\Desktop\\张钰彬\\Model\\Public-data-driven model\\outputs\\jh_reproducibility_package_20260810_164333.zip",
   "file_count": 529,
   "missing_count": 0,
-  "total_bytes": 370641501,
+  "total_bytes": 370648486,
   "categories": {
     "metadata": {
       "files": 18,
@@ -68,8 +68,8 @@
       "bytes": 181019
     }
   },
-  "updated_at": "2026-08-13T20:29:21",
-  "update_note": "Figure 7 redrawn with Figure 8-style 3x2 layout, taller canvas, and non-overlapping legends; corresponding script, PNG, PDF, and summary table were refreshed.",
+  "updated_at": "2026-08-13T20:37:35",
+  "update_note": "Figure 7 was redrawn with Figure 8-style 3x2 layout and a compact panel-a legend for area and network density; corresponding script, PNG, PDF, and summary table were refreshed.",
   "figure7_layout": {
     "figsize_in": [
       7.3,
@@ -84,6 +84,7 @@
       "right": 0.93,
       "bottom": 0.075,
       "top": 0.915
-    }
+    },
+    "panel_a_legend": true
   }
 }
